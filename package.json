@@ -1,0 +1,12 @@
+{
+  "name": "pruebas-funciones-js",
+  "version": "1.0.0",
+  "description": "Pruebas de funciones JavaScript con integración continua (GitHub Actions)",
+  "main": "funciones.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["javascript", "ci", "github-actions", "test"],
+  "author": "HerySwiat",
+  "license": "ISC"
+}
